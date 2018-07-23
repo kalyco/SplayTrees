@@ -1,0 +1,65 @@
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Sorted List: 
+christina aguilera:  beautiful
+crystals:  then he kissed me
+good charlotte:  anthem |  anthem 2
+hootie and the blowfish:  let her cry
+kc & jojo:  all my life
+natasha bedingfield:  pocket full of sunshine
+owl city:  fireflies
+rehab:  bartender
+sugar ray:  falls apart
+Done.
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Find what (Enter artist name): Approximate matches: 
+Artist: hootie and the blowfish
+Songs:  let her cry
+Artist: kc & jojo
+Songs:  all my life
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Remove what (Enter artist name): Done.
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Sorted List: 
+christina aguilera:  beautiful
+crystals:  then he kissed me
+hootie and the blowfish:  let her cry
+kc & jojo:  all my life
+natasha bedingfield:  pocket full of sunshine
+owl city:  fireflies
+rehab:  bartender
+sugar ray:  falls apart
+Done.
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Find what (Enter artist name): Accurately matched!
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Exiting...

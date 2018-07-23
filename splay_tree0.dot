@@ -1,0 +1,53 @@
+digraph{
+graph [ordering="out"];
+node [fontsize = "10"shape = "record"];
+"sugar ray" [label ="sugar ray | |  falls apart"];
+"rehab" [label ="rehab | |  bartender"];
+"hootie and the blowfish" [label ="hootie and the blowfish | |  let her cry"];
+"christina aguilera" [label ="christina aguilera | |  beautiful"];
+"owl city" [label ="owl city | |  fireflies"];
+"good charlotte" [label ="good charlotte | |  anthem |  anthem 2"];
+"crystals" [label ="crystals | |  then he kissed me"];
+"kc & jojo" [label ="kc & jojo | |  all my life"];
+"crystals" [label ="crystals | |  then he kissed me"];
+"good charlotte" [label ="good charlotte | |  anthem |  anthem 2"];
+"crystals" [label ="crystals | |  then he kissed me"];
+"natasha bedingfield" [label ="natasha bedingfield | |  pocket full of sunshine"];
+"sugar ray"  -> "rehab" 
+"rehab"  -> "hootie and the blowfish" 
+"hootie and the blowfish"  -> "christina aguilera" 
+"christina aguilera"  -> "owl city" 
+"owl city"  -> "good charlotte" 
+"good charlotte"  -> "crystals" 
+nullptr0[shape=point]
+"crystals"  -> nullptr0
+nullptr1[shape=point]
+"crystals"  -> nullptr1
+nullptr2[shape=point]
+"good charlotte"  -> nullptr2
+"owl city"  -> "kc & jojo" 
+"kc & jojo"  -> "crystals" 
+nullptr3[shape=point]
+"crystals"  -> nullptr3
+nullptr4[shape=point]
+"crystals"  -> nullptr4
+nullptr5[shape=point]
+"kc & jojo"  -> nullptr5
+"christina aguilera"  -> "good charlotte" 
+"good charlotte"  -> "crystals" 
+nullptr6[shape=point]
+"crystals"  -> nullptr6
+nullptr7[shape=point]
+"crystals"  -> nullptr7
+nullptr8[shape=point]
+"good charlotte"  -> nullptr8
+"hootie and the blowfish"  -> "natasha bedingfield" 
+nullptr9[shape=point]
+"natasha bedingfield"  -> nullptr9
+nullptr10[shape=point]
+"natasha bedingfield"  -> nullptr10
+nullptr11[shape=point]
+"rehab"  -> nullptr11
+nullptr12[shape=point]
+"sugar ray"  -> nullptr12
+}

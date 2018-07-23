@@ -12,7 +12,9 @@ using namespace std;
 template<typename KeyT, typename ValueT>
 class SplayTree : public BST<KeyT,ValueT> {
   public:  
-    
+    enum Orientation {
+        NONE, LEFT, RIGHT
+    };
     /// Find a node in the BST containing the given key
     BSTNode<KeyT,ValueT>* find(KeyT aKey)
     {
@@ -80,13 +82,78 @@ class SplayTree : public BST<KeyT,ValueT> {
 
   public:
 
-    /// Splay operation
-    void splay(BSTNode<KeyT,ValueT>* aNode)
-    {
-      // Your implementation goes here
-    } 
-    
-};
+    // 1. if aNode < root (zig), get left child or vice versa
+    // 2. set the parent of old root as aNode
+    // 3. if aNode < root (zig) set Left child as previous
+    BSTNode<KeyT,ValueT>* setRotationValues(bool zig, BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent) {
+       BSTNode<KeyT,ValueT>* aChild = zig ? aNode->right() : aNode->left();
+       zig ? aNode->setRight(aParent) : aNode->setLeft(aParent);
+       aParent->setParent(aNode);
+       zig ? aParent->setLeft(aChild) : aParent->setRight(aChild); 
+       return aChild;
+    }
 
+    void updateRoot(BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent, BSTNode<KeyT,ValueT>* aChild) {
+        if (aChild != NULL) aChild->setParent(aParent);
+        if (this->root() == aParent) {
+            this->setRoot(aNode); // Set the new root
+            aNode->setParent(NULL);
+        }
+    }
+
+    // Zig rotation -- left to right. Use-case: aNode is a left child of root
+    void zig(BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent) {
+        BSTNode<KeyT,ValueT>* rightChild = setRotationValues(true, aNode, aParent);
+        updateRoot(aNode, aParent, rightChild);
+    }
+    
+    // Zag rotation -- right to left. Use-case: aNode is a right child of root
+    void zag(BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent) {
+        BSTNode<KeyT,ValueT>* leftChild = setRotationValues(false, aNode, aParent);
+        updateRoot(aNode, aParent, leftChild);
+    }
+
+    void doZigOrZag(BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent) {
+      aParent->left() == aNode ? zig(aNode, aParent) : zag(aNode, aParent);
+    }
+
+    Orientation getOrientation(BSTNode<KeyT,ValueT>* gParent, BSTNode<KeyT,ValueT>* ggParent) {
+      if (ggParent != NULL) { // if grandparent is not root
+        return (ggParent->left() == gParent ? LEFT : RIGHT); 
+      }
+      return NONE;
+    }
+
+  // Double rotation -- zigzig/zagzag/zagzig/zigzag. Use-case: aNode is a grandchild
+  void doubleZigOrZag(BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent, BSTNode<KeyT,ValueT>* aGrandParent) {
+    BSTNode<KeyT,ValueT>* ggParent = aGrandParent->parent(); // check parent of grandparent
+    Orientation orient = getOrientation(aGrandParent, ggParent);
+    // TODO: Check the state of these because they could change after the rotations.
+    doZigOrZag(aNode, aParent); // Rotate around the parent first
+    doZigOrZag(aNode, aGrandParent); // Rotate around the grandparent
+    if (orient != NONE) {
+        orient == LEFT ? ggParent->setLeft(aNode) : ggParent->setRight(aNode);
+        aNode->setParent(ggParent);
+    }
+  }
+
+    // Splay operation
+    void splay(BSTNode<KeyT,ValueT>* aNode) {
+    BSTNode<KeyT,ValueT>* parent = aNode->parent();
+    if (parent == NULL) return; // already root
+    BSTNode<KeyT,ValueT>* grandParent = parent->parent();
+    while (parent != NULL && grandParent != NULL) {
+      doubleZigOrZag(aNode, parent, grandParent);
+      // Evaluate new parent and grandparent after rotations
+      parent = aNode->parent();
+      if (parent == NULL) break;
+      grandParent = parent->parent();
+      if (grandParent == NULL) break;
+    }
+    // Zig operation is done only as a last pass
+    // after Zigzig and/or Zigzag operations
+    if (grandParent == NULL) doZigOrZag(aNode, parent); // Parent is the root -- Zig operation
+  }
+};
 
 #endif

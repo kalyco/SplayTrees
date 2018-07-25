@@ -1,3 +1,21 @@
+do a splaying
+aNode: k
+do a splaying
+aNode: g
+do a splaying
+aNode: g
+do a splaying
+aNode: o
+do a splaying
+aNode: c
+do a splaying
+aNode: n
+do a splaying
+aNode: h
+do a splaying
+aNode: r
+do a splaying
+aNode: s
 Input choices:
 * Insert (1)
 * Find (2)
@@ -24,7 +42,11 @@ Input choices:
 * Remove (3)
 * Print sorted (4)
 * Exit(0)
-Find what (Enter artist name): Approximate matches: 
+Find what (Enter artist name): do a splaying
+aNode: h
+do a splaying
+aNode: n
+Approximate matches: 
 Artist: hootie and the blowfish
 Songs:  let her cry
 Artist: natasha bedingfield
@@ -63,4 +85,5 @@ Input choices:
 * Remove (3)
 * Print sorted (4)
 * Exit(0)
-Find what (Enter artist name): 
+Find what (Enter artist name): do a splaying
+aNode: r

@@ -1,0 +1,34 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "C++",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "${workspaceRoot}/songmanager",
+			"args": ["music1.txt"],
+			"stopAtEntry": false,
+			"cwd": "${workspaceFolder}",
+			"environment": [],
+			"externalConsole": false,
+			"MIMode": "lldb"
+		},
+		{
+			"name": "Debug 1",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "${workspaceRoot}/songmanager",
+			"args": [
+				"${workspaceFolder}/music1.txt < ${workspaceFolder}/input_for_music1.txt > ${workspaceFolder}/output_for_music1.txt"
+			],
+			"stopAtEntry": true,
+			"cwd": "${workspaceFolder}",
+			"environment": [],
+			"externalConsole": false,
+			"MIMode": "lldb"
+		},
+	]
+}

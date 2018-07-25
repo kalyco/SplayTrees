@@ -20,6 +20,7 @@ class SplayTree : public BST<KeyT,ValueT> {
     {
         BSTNode<KeyT,ValueT>* node = BST<KeyT,ValueT>::find(aKey);
         if (node != nullptr) {
+            cout << "doing a splay " << endl;
             // Splay the node that is found or the node where the search ended
             splay(node);
         }
@@ -94,10 +95,10 @@ class SplayTree : public BST<KeyT,ValueT> {
     }
 
     void updateRoot(BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent, BSTNode<KeyT,ValueT>* aChild) {
-        if (aChild != NULL) aChild->setParent(aParent);
+        if (aChild != nullptr) aChild->setParent(aParent);
         if (this->root() == aParent) {
             this->setRoot(aNode); // Set the new root
-            aNode->setParent(NULL);
+            aNode->setParent(nullptr);
         }
     }
 
@@ -118,7 +119,7 @@ class SplayTree : public BST<KeyT,ValueT> {
     }
 
     Orientation getOrientation(BSTNode<KeyT,ValueT>* gParent, BSTNode<KeyT,ValueT>* ggParent) {
-      if (ggParent != NULL) { // if grandparent is not root
+      if (ggParent != nullptr) { // if grandparent is not root
         return (ggParent->left() == gParent ? LEFT : RIGHT); 
       }
       return NONE;
@@ -137,22 +138,39 @@ class SplayTree : public BST<KeyT,ValueT> {
     }
   }
 
-    // Splay operation
-    void splay(BSTNode<KeyT,ValueT>* aNode) {
+  bool homogenousZigZag() {
+    
+  }
+
+  // Splay operation
+  void splay(BSTNode<KeyT,ValueT>* aNode) {
+    cout << "do a splaying" << endl;
+    cout << "aNode: " << aNode->key()[0] << endl;
     BSTNode<KeyT,ValueT>* parent = aNode->parent();
-    if (parent == NULL) return; // already root
+    if (parent == nullptr) return; // already root
     BSTNode<KeyT,ValueT>* grandParent = parent->parent();
-    while (parent != NULL && grandParent != NULL) {
+    while (parent != nullptr && grandParent != nullptr) {
       doubleZigOrZag(aNode, parent, grandParent);
       // Evaluate new parent and grandparent after rotations
       parent = aNode->parent();
-      if (parent == NULL) break;
+      if (parent == nullptr) break;
       grandParent = parent->parent();
-      if (grandParent == NULL) break;
+      if (grandParent == nullptr) break;
     }
     // Zig operation is done only as a last pass
     // after Zigzig and/or Zigzag operations
-    if (grandParent == NULL) doZigOrZag(aNode, parent); // Parent is the root -- Zig operation
+    if (grandParent == nullptr) doZigOrZag(aNode, parent); // Parent is the root -- Zig operation
+  }
+
+  // TODO: Generate a value for each string and make a comparison that way.
+  // Otherwise make a custom comparator operator function
+  BSTNode<KeyT,ValueT>* insert(int aKey) {
+    BSTNode<KeyT,ValueT>* node = this->insert(aKey);
+    if (node != nullptr) {
+      // Splay the node that is found or the node where the search ended
+      splay(node);
+    }
+    return node;
   }
 };
 

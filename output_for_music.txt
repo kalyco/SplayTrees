@@ -1,0 +1,72 @@
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Find what (Enter artist name): Approximate matches: 
+Artist: chris isaak
+Songs:  wicked game
+Artist: christina aguilera
+Songs:  beautiful |  genie in a bottle
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Remove what (Enter artist name): Done.
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Find what (Enter artist name): Approximate matches: 
+Artist: chris isaak
+Songs:  wicked game
+Artist: chumbawumba
+Songs:  tubthumping
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Artist: Music: Done.
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Find what (Enter artist name): Accurately matched!
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Find what (Enter artist name): Approximate matches: 
+Artist: elvis presley
+Songs:  hound dog |  jailhouse rock |  suspicious minds
+Artist: enrique iglesias
+Songs:  be with you |  bailamos |  i like it |  hero
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Find what (Enter artist name): Approximate matches: 
+Artist: enrique iglesias
+Songs:  be with you |  bailamos |  i like it |  hero
+Artist: enya
+Songs: a day without rain
+Input choices:
+* Insert (1)
+* Find (2)
+* Remove (3)
+* Print sorted (4)
+* Exit(0)
+Exiting...

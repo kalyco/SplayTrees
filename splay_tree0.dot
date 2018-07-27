@@ -5,49 +5,37 @@ node [fontsize = "10"shape = "record"];
 "rehab" [label ="rehab | |  bartender"];
 "hootie and the blowfish" [label ="hootie and the blowfish | |  let her cry"];
 "christina aguilera" [label ="christina aguilera | |  beautiful"];
-"owl city" [label ="owl city | |  fireflies"];
-"good charlotte" [label ="good charlotte | |  anthem |  anthem 2"];
-"crystals" [label ="crystals | |  then he kissed me"];
-"kc & jojo" [label ="kc & jojo | |  all my life"];
-"crystals" [label ="crystals | |  then he kissed me"];
 "good charlotte" [label ="good charlotte | |  anthem |  anthem 2"];
 "crystals" [label ="crystals | |  then he kissed me"];
 "natasha bedingfield" [label ="natasha bedingfield | |  pocket full of sunshine"];
+"kc & jojo" [label ="kc & jojo | |  all my life"];
+"owl city" [label ="owl city | |  fireflies"];
 "sugar ray"  -> "rehab" 
 "rehab"  -> "hootie and the blowfish" 
 "hootie and the blowfish"  -> "christina aguilera" 
-"christina aguilera"  -> "owl city" 
-"owl city"  -> "good charlotte" 
-"good charlotte"  -> "crystals" 
 nullptr0[shape=point]
-"crystals"  -> nullptr0
+"christina aguilera"  -> nullptr0
+"christina aguilera"  -> "good charlotte" 
+"good charlotte"  -> "crystals" 
 nullptr1[shape=point]
 "crystals"  -> nullptr1
 nullptr2[shape=point]
-"good charlotte"  -> nullptr2
-"owl city"  -> "kc & jojo" 
-"kc & jojo"  -> "crystals" 
+"crystals"  -> nullptr2
 nullptr3[shape=point]
-"crystals"  -> nullptr3
+"good charlotte"  -> nullptr3
+"hootie and the blowfish"  -> "natasha bedingfield" 
+"natasha bedingfield"  -> "kc & jojo" 
 nullptr4[shape=point]
-"crystals"  -> nullptr4
+"kc & jojo"  -> nullptr4
 nullptr5[shape=point]
 "kc & jojo"  -> nullptr5
-"christina aguilera"  -> "good charlotte" 
-"good charlotte"  -> "crystals" 
+"natasha bedingfield"  -> "owl city" 
 nullptr6[shape=point]
-"crystals"  -> nullptr6
+"owl city"  -> nullptr6
 nullptr7[shape=point]
-"crystals"  -> nullptr7
+"owl city"  -> nullptr7
 nullptr8[shape=point]
-"good charlotte"  -> nullptr8
-"hootie and the blowfish"  -> "natasha bedingfield" 
+"rehab"  -> nullptr8
 nullptr9[shape=point]
-"natasha bedingfield"  -> nullptr9
-nullptr10[shape=point]
-"natasha bedingfield"  -> nullptr10
-nullptr11[shape=point]
-"rehab"  -> nullptr11
-nullptr12[shape=point]
-"sugar ray"  -> nullptr12
+"sugar ray"  -> nullptr9
 }

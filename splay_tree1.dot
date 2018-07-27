@@ -1,0 +1,1525 @@
+digraph{
+graph [ordering="out"];
+node [fontsize = "10"shape = "record"];
+"christina aguilera" [label ="christina aguilera | |  beautiful |  genie in a bottle"];
+"chris isaak" [label ="chris isaak | |  wicked game"];
+"backstreet boys" [label ="backstreet boys | |  larger than life |  as long as you love me |  I want it that way"];
+"3 doors down" [label ="3 doors down | |  kryptonite |  away from the sun"];
+"311" [label ="311 | |  all mixed up |  love song"];
+"ashlee simpson" [label ="ashlee simpson | |  pieces of me"];
+"aerosmith" [label ="aerosmith | |  living on the edge |  sweet emotion |  angel |  what it takes |  dream on  |  crying"];
+"ac/dc" [label ="ac/dc | |  shook me all night long |  tnt"];
+"3oh3" [label ="3oh3 | |  don't trust me"];
+"4 non blondes" [label ="4 non blondes | |  what's going on"];
+"ace of base" [label ="ace of base | |  i saw the sign"];
+"anna malick" [label ="anna malick | |  breathe"];
+"alanis morrisette" [label ="alanis morrisette | |  ironic |  you outta know"];
+"akon" [label ="akon | |  sweetest girl |  beautiful"];
+"aha" [label ="aha | |  take on me"];
+"all american rejects" [label ="all american rejects | |  move along |  gives you hell |  swing swing"];
+"all ameican rejects" [label ="all ameican rejects | |  dirty little secret"];
+"american hi fi" [label ="american hi fi | |  flavor of the week"];
+"aqua" [label ="aqua | |  barbie girl"];
+"b52's" [label ="b52's | |  love shack"];
+"augustana" [label ="augustana | |  boston"];
+"avril lavigne" [label ="avril lavigne | |  my happy ending |  sk8ter boi |  complicated"];
+"bobby darin" [label ="bobby darin | |  dreamlover |  beyond the sea"];
+"bel biv devoe" [label ="bel biv devoe | |  poison"];
+"bb mack" [label ="bb mack | |  back here baby"];
+"badfinger" [label ="badfinger | |  no matter what"];
+"bad company" [label ="bad company | |  feel like making love"];
+"barenaked ladies" [label ="barenaked ladies | |  one week |  it's all been done |  pinch me |  if i had a million dollars"];
+"beatles" [label ="beatles | |  yesterday |  a hard day's night |  hold your hand |  all my loving |  twist and shout"];
+"beastie boys" [label ="beastie boys | |  fight for your right"];
+"bee gees" [label ="bee gees | |  staying alive"];
+"black eyed peas" [label ="black eyed peas | |  boom boom pow |  i got a feeling"];
+"billy idol" [label ="billy idol | |  dancing with myself"];
+"belinda carlisle" [label ="belinda carlisle | |  heaven is a place on earth"];
+"ben harper" [label ="ben harper | |  steal my kisses"];
+"ben e king" [label ="ben e king | |  stand by me"];
+"better than ezra" [label ="better than ezra | |  good |  desperately wanting"];
+"betty everett" [label ="betty everett | |  its in his kiss"];
+"bill winters" [label ="bill winters | |  lean on me"];
+"black crowes" [label ="black crowes | |  hard to handle"];
+"billy joel" [label ="billy joel | |  for the longest time |  piano man"];
+"blind melon" [label ="blind melon | |  no rain"];
+"blessed union of souls" [label ="blessed union of souls | |  she likes me for me |  i believe"];
+"blink 182" [label ="blink 182 | |  all the small things |  i miss you |  what's my age again |  rock show |  dammit"];
+"blue october" [label ="blue october | |  hate me"];
+"blues traveler" [label ="blues traveler | |  hook |  run around"];
+"bob seager" [label ="bob seager | |  old time rock and roll"];
+"buggles" [label ="buggles | |  video killed the radio star"];
+"britney spears" [label ="britney spears | |  baby one more time |  til the world ends |  lucky |  circus"];
+"bon jovi" [label ="bon jovi | |  blaze of glory |  living on a prayer |  shot through the heart |  wanted dead or alive |  never say goodbye"];
+"brian setzer" [label ="brian setzer | |  rock this town"];
+"boston" [label ="boston | |  more than a feeling"];
+"bryan adams" [label ="bryan adams | |  summer of 69 |  everything i do"];
+"bruno mars" [label ="bruno mars | |  nothing on you |  billionaire"];
+"bruce springsteen" [label ="bruce springsteen | |  glory days"];
+"buddy holly" [label ="buddy holly | |  that'll be the day"];
+"ccr" [label ="ccr | |  bad moon rising |  have you ever seen the rain"];
+"cardigans" [label ="cardigans | |  lovefool"];
+"candlebox" [label ="candlebox | |  far behind"];
+"cameo" [label ="cameo | |  word up"];
+"calling" [label ="calling | |  wherever you will go"];
+"bush" [label ="bush | |  machinehead |  glycerine"];
+"cars" [label ="cars | |  just what i needed"];
+"carrie underwood" [label ="carrie underwood | |  before he cheats"];
+"chris daughtry" [label ="chris daughtry | |  over you"];
+"cheap trick" [label ="cheap trick | |  i want you to want me"];
+"celine dion" [label ="celine dion | |  my heart will go on"];
+"chris brown" [label ="chris brown | |  forever |  with you"];
+"chicago" [label ="chicago | |  look away"];
+"cher" [label ="cher | |  believe |  turn back time"];
+"lit" [label ="lit | |  miserable |  my own worst enemy"];
+"iyaz" [label ="iyaz | |  reply |  solo"];
+"eagles" [label ="eagles | |  hotel california |  take it easy"];
+"david guetta" [label ="david guetta | |  sexy chick"];
+"dave matthews" [label ="dave matthews | |  crash |  tripping billies |  crush |  ants marching"];
+"collective soul" [label ="collective soul | |  run |  shine |  the world i know"];
+"coldplay" [label ="coldplay | |  clocks |  yellow"];
+"chumbawumba" [label ="chumbawumba | |  tubthumping"];
+"city high" [label ="city high | |  what would you do"];
+"cindy lauper" [label ="cindy lauper | |  time after time"];
+"colbie caillat" [label ="colbie caillat | |  bubbly"];
+"clay aiken" [label ="clay aiken | |  invisible"];
+"clash" [label ="clash | |  should i stay or should i go"];
+"cracker" [label ="cracker | |  low"];
+"corrs" [label ="corrs | |  breathless"];
+"contours" [label ="contours | |  do you love me"];
+"counting crows" [label ="counting crows | |  mr jones |  round here |  angel of the silences"];
+"cyndi lauper" [label ="cyndi lauper | |  time after time"];
+"cure" [label ="cure | |  friday i'm in love |  just like heaven"];
+"cranberries" [label ="cranberries | |  linger |  zombie |  dreams"];
+"crash test dummies" [label ="crash test dummies | |  mmm mmm mmm"];
+"crystals" [label ="crystals | |  then he kissed me"];
+"daft punk" [label ="daft punk | |  get lucky"];
+"darkness" [label ="darkness | |  love is only a feeling |  i believe in a thing called love"];
+"damn yankees" [label ="damn yankees | |  high enough"];
+"daniel powter" [label ="daniel powter | |  bad day"];
+"doobie brothers" [label ="doobie brothers | |  listen to the music |  long train running"];
+"deep blue something" [label ="deep blue something | |  breakfast at tiffany's"];
+"deadeye dick" [label ="deadeye dick | |  new age girl"];
+"david lee murphy" [label ="david lee murphy | |  dust on the bottle"];
+"debarge" [label ="debarge | |  rythym of the night"];
+"dean martin" [label ="dean martin | |  nobody til somebody loves you"];
+"destiny's child" [label ="destiny's child | |  say my name"];
+"dell vikings" [label ="dell vikings | |  come and go"];
+"def leppard" [label ="def leppard | |  pour some sugar on me"];
+"del amitri" [label ="del amitri | |  roll to me"];
+"dexy's midnight runners" [label ="dexy's midnight runners | |  come on eileen"];
+"dion and the belmonts" [label ="dion and the belmonts | |  runaround sue"];
+"dog's eye view" [label ="dog's eye view | |  everything falls apart"];
+"dixie cups" [label ="dixie cups | |  chapel of love"];
+"dishwalla" [label ="dishwalla | |  counting blue cars"];
+"don henley" [label ="don henley | |  boys of summer"];
+"drake" [label ="drake | |  find your love"];
+"eagle eye cherry" [label ="eagle eye cherry | |  save tonight"];
+"dwight yoakum" [label ="dwight yoakum | |  fast as you"];
+"duncan sheik" [label ="duncan sheik | |  barely breathing"];
+"duran duran" [label ="duran duran | |  come undone |  ordinary world"];
+"elvis presley" [label ="elvis presley | |  hound dog |  jailhouse rock |  suspicious minds"];
+"elo" [label ="elo | |  don't bring me down"];
+"eddie money" [label ="eddie money | |  take me home tonight |  two tickets to paradise"];
+"edwin mccain" [label ="edwin mccain | |  i'll be"];
+"fuel" [label ="fuel | |  hemorrhage |  innocent |  shimmer"];
+"enrique iglesias" [label ="enrique iglesias | |  be with you |  bailamos |  i like it |  hero"];
+"four seasons" [label ="four seasons | |  oh what a night"];
+"flys" [label ="flys | |  got you where i want you"];
+"faith hill" [label ="faith hill | |  this kiss |  breathe |  cry"];
+"everclear" [label ="everclear | |  santa monica"];
+"eve 6" [label ="eve 6 | |  inside out"];
+"filter" [label ="filter | |  take a picture"];
+"fall out boy" [label ="fall out boy | |  dance dance |  sugar we're going down"];
+"fastball" [label ="fastball | |  the way |  out of my head"];
+"fergie" [label ="fergie | |  big girls don't cry"];
+"flo rida" [label ="flo rida | |  club can't handle me"];
+"fine young cannibals" [label ="fine young cannibals | |  drives me crazy"];
+"fleetwood mac" [label ="fleetwood mac | |  go your own way"];
+"foo fighters" [label ="foo fighters | |  everlong |  times like these |  learning to fly"];
+"foundations" [label ="foundations | |  build me up buttercup"];
+"fountains of wayne" [label ="fountains of wayne | |  stacey's mom"];
+"frank sinatra" [label ="frank sinatra | |  the way you look tonight"];
+"frankie valli" [label ="frankie valli | |  grease  |  oh what a night |  big girls don't cry |  can't take my eyes off of you"];
+"gavin degraw" [label ="gavin degraw | |  i don't wanna be"];
+"gary wright" [label ="gary wright | |  dreamweaver"];
+"green day" [label ="green day | |  brain stew |  time of your life |  when I come around |  longview |  basket case"];
+"goo goo dolls" [label ="goo goo dolls | |  black balloon |  name |  slide |  iris |  broadway"];
+"gin blossoms" [label ="gin blossoms | |  found out about you |  hey jealousy |  follow you down |  until i fall away"];
+"george michael" [label ="george michael | |  faith"];
+"george benson" [label ="george benson | |  on broadway"];
+"gnarls barkley" [label ="gnarls barkley | |  crazy"];
+"go west" [label ="go west | |  king of wishful thinking"];
+"good charlotte" [label ="good charlotte | |  anthem |  boys and girls"];
+"herman's hermits" [label ="herman's hermits | |  into something good"];
+"harvey danger" [label ="harvey danger | |  flagpole sitta"];
+"gym class heroes" [label ="gym class heroes | |  stereo hearts"];
+"hanson" [label ="hanson | |  mmmbop"];
+"hank williams" [label ="hank williams | |  family tradition"];
+"heart" [label ="heart | |  alone"];
+"hoobastank" [label ="hoobastank | |  crawling in the dark |  reason"];
+"hinder" [label ="hinder | |  lips of an angel"];
+"hilary duff" [label ="hilary duff | |  so yesterday"];
+"huey lewis" [label ="huey lewis | |  if this is it |  heart and soul |  heart of rock and roll"];
+"house of pain" [label ="house of pain | |  jump around"];
+"hot chelle rae" [label ="hot chelle rae | |  tonight tonight"];
+"hootie and the blowfish" [label ="hootie and the blowfish | |  let her cry |  only wanna be with you |  hold my hand |  time"];
+"incubus" [label ="incubus | |  drive |  wish you were here"];
+"imagine dragons" [label ="imagine dragons | |  demons"];
+"inxs" [label ="inxs | |  never tear us apart"];
+"jennifer lopez" [label ="jennifer lopez | |  waiting for tonight"];
+"jay sean" [label ="jay sean | |  down |  do you remember"];
+"jason mraz" [label ="jason mraz | |  I'm yours |  the remedy"];
+"jason aldean" [label ="jason aldean | |  big green tractor"];
+"james" [label ="james | |  laid"];
+"knack" [label ="knack | |  my sharona"];
+"justin timberlake" [label ="justin timberlake | |  summer love |  lovestoned |  what goes around |  sexy back"];
+"journey" [label ="journey | |  any way you want it |  faithfully |  don't stop believing |  open arms"];
+"jojo" [label ="jojo | |  too little too late |  get out"];
+"jet" [label ="jet | |  are you gonna be my girl"];
+"jesse mccartney" [label ="jesse mccartney | |  beautiful soul"];
+"johnny cash" [label ="johnny cash | |  ring of fire |  folsom prison blues"];
+"john mayer" [label ="john mayer | |  body is a wonderland |  why georgia"];
+"john cougar mellencamp" [label ="john cougar mellencamp | |  jack and diane"];
+"jimmy buffet" [label ="jimmy buffet | |  margaritaville"];
+"jimmy eat world" [label ="jimmy eat world | |  in the middle |  sweetness"];
+"john parr" [label ="john parr | |  man in motion"];
+"jordin sparks" [label ="jordin sparks | |  tattoo |  one step at a time"];
+"jonas brothers" [label ="jonas brothers | |  burning up |  love bug"];
+"justin bieber" [label ="justin bieber | |  baby"];
+"justin biever" [label ="justin biever | |  eenie meenie"];
+"kesha" [label ="kesha | |  tik tok"];
+"katy perry" [label ="katy perry | |  california girls |  i kissed a girl |  teenage dream |  firework |  hot n cold |  waking up in vegas"];
+"katrina and the waves" [label ="katrina and the waves | |  walking on sunshine"];
+"kanye west" [label ="kanye west | |  heartless |  good life"];
+"kelly clarkson" [label ="kelly clarkson | |  breakaway |  since you've been gone |  behind these hazel eyes |  my life would suck without you"];
+"keane" [label ="keane | |  everybody's changing |  somewhere only we know"];
+"kc & jojo" [label ="kc & jojo | |  all my life"];
+"kings of leon" [label ="kings of leon | |  sex on fire"];
+"killers" [label ="killers | |  somebody told me  |  mr brightside"];
+"kid rock" [label ="kid rock | |  all summer long"];
+"kevin rudolf" [label ="kevin rudolf | |  let it rock"];
+"lady gaga" [label ="lady gaga | |  born this way |  just dance |  bad romance |  poker face"];
+"la's" [label ="la's | |  there she goes"];
+"la roux" [label ="la roux | |  bulletproof"];
+"lifehouse" [label ="lifehouse | |  hanging by a moment"];
+"leonna lewis" [label ="leonna lewis | |  bleeding love"];
+"led zepelin" [label ="led zepelin | |  stairway to heaven"];
+"len" [label ="len | |  steal my sunshine"];
+"lfo" [label ="lfo | |  summergirls"];
+"linkin park" [label ="linkin park | |  shadow of the day"];
+"lisa loeb" [label ="lisa loeb | |  stay"];
+"modern english" [label ="modern english | |  melt with you"];
+"michael jackson" [label ="michael jackson | |  black or white |  smooth criminal |  remember the time |  billie jean |  man in the mirror"];
+"lonely island" [label ="lonely island | |  i just had sex |  jizz in my pants |  i'm on a boat"];
+"lmfao" [label ="lmfao | |  party rock"];
+"live" [label ="live | |  lightning crashes |  all over you |  i alone"];
+"lou bega" [label ="lou bega | |  mambo #5"];
+"los lonely boys" [label ="los lonely boys | |  how far is heaven"];
+"lost trailers" [label ="lost trailers | |  holler back"];
+"maroon 5" [label ="maroon 5 | |  she will be loved |  moves like jagger |  makes me wonder |  harder to breathe |  won't go home without you"];
+"madonna" [label ="madonna | |  like a prayer |  express yourself |  material girl"];
+"lynyrd skynyrd" [label ="lynyrd skynyrd | |  gimme 3 steps |  simple man |  sweet home alabama"];
+"luke bryan" [label ="luke bryan | |  country girl shake it for me"];
+"marion winans" [label ="marion winans | |  I don't wanna know"];
+"mariah carey" [label ="mariah carey | |  all i want for christmas is you"];
+"matchbox 20" [label ="matchbox 20 | |  back to good |  long day |  3am |  real world |  bright lights |  push"];
+"martha & vandellas" [label ="martha & vandellas | |  dancing in the street"];
+"meredith brooks" [label ="meredith brooks | |  bitch"];
+"melissa etheridge" [label ="melissa etheridge | |  i'm the only one |  come to my window"];
+"meat loaf" [label ="meat loaf | |  anything for love"];
+"mccoys" [label ="mccoys | |  hang on sloopy"];
+"maurice williams & zodiacs" [label ="maurice williams & zodiacs | |  stay "];
+"men at work" [label ="men at work | |  land down under"];
+"mighty mighty bosstones" [label ="mighty mighty bosstones | |  impression that i get"];
+"michelle branch" [label ="michelle branch | |  everywhere |  all you wanted"];
+"mickey and sylvia" [label ="mickey and sylvia | |  love is strange"];
+"missy elliot" [label ="missy elliot | |  lady marmalade"];
+"miley cyrus" [label ="miley cyrus | |  party in the usa |  see you again"];
+"u2" [label ="u2 | |  beautiful day |  who's gonna ride  |  with or without you |  pride (in the name of love) |  where the streets have no name |  one"];
+"next" [label ="next | |  too closes"];
+"mr big" [label ="mr big | |  be with you"];
+"montell jordan" [label ="montell jordan | |  this is how we do it"];
+"monkees" [label ="monkees | |  I'm a believer"];
+"mumford and sons" [label ="mumford and sons | |  little lion man"];
+"nelly furtado" [label ="nelly furtado | |  say it right |  I'm like a bird"];
+"naked eyes" [label ="naked eyes | |  always something there"];
+"natalie imbruglia" [label ="natalie imbruglia | |  torn"];
+"natasha bedingfield" [label ="natasha bedingfield | |  pocket full of sunshine"];
+"neon trees" [label ="neon trees | |  animal |  everybody talks"];
+"third eye blind" [label ="third eye blind | |  semi charmed life |  blinded |  how's it gonna be |  jumper |  never let you go |  deep inside of you"];
+"pearl jam" [label ="pearl jam | |  jeremy |  even flow |  better man |  elderly woman "];
+"no doubt" [label ="no doubt | |  just a girl |  spiderwebs |  don't speak"];
+"nine days" [label ="nine days | |  story of a girl"];
+"nickelback" [label ="nickelback | |  rockstar |  how you remind me"];
+"neyo" [label ="neyo | |  hate how much i love you |  closer"];
+"outfield" [label ="outfield | |  your love (josie's on a vacation)"];
+"one republic" [label ="one republic | |  counting stars |  stop and stare |  apologize"];
+"offspring" [label ="offspring | |  why don't you get a job"];
+"oasis" [label ="oasis | |  wonderwall |  don't look back in anger |  champagne supernova"];
+"nsync" [label ="nsync | |  it's gonna be me |  bye bye bye |  tearing up my heart"];
+"oar" [label ="oar | |  shattered (turn the car around)"];
+"our lady peace" [label ="our lady peace | |  innocent"];
+"orianthi" [label ="orianthi | |  according to you"];
+"paramore" [label ="paramore | |  that's what you get |  misery business"];
+"papa roach" [label ="papa roach | |  scars |  my last resort"];
+"outkast" [label ="outkast | |  hey ya"];
+"panic at the disco" [label ="panic at the disco | |  I write sins not tragedies"];
+"owl city" [label ="owl city | |  fireflies"];
+"paul simon" [label ="paul simon | |  cecilia |  you can call me al |  mrs robinson"];
+"pat benatar" [label ="pat benatar | |  hit me with your best shot"];
+"paula abdul" [label ="paula abdul | |  straight up"];
+"r kelly" [label ="r kelly | |  ignition"];
+"pure prairie league" [label ="pure prairie league | |  amie"];
+"peggy march" [label ="peggy march | |  i will follow him"];
+"proclaimers" [label ="proclaimers | |  500 miles"];
+"peter frampton" [label ="peter frampton | |  baby i love your way"];
+"pitbull" [label ="pitbull | |  give me everything"];
+"pink" [label ="pink | |  just like a pill |  who knew  |  so what"];
+"peter gabriel" [label ="peter gabriel | |  in your eyes"];
+"phantom planet" [label ="phantom planet | |  california"];
+"prince" [label ="prince | |  little red corvette |  kiss"];
+"police" [label ="police | |  every breath you take"];
+"poison" [label ="poison | |  unskinny bop"];
+"presidents of the USA" [label ="presidents of the USA | |  peaches |  lump"];
+"puddle of mudd" [label ="puddle of mudd | |  blurry"];
+"queen" [label ="queen | |  we are the champions |  don't stop me now |  bohemian rhapsody"];
+"pussycat dolls" [label ="pussycat dolls | |  i hate this part"];
+"quagarth brooks" [label ="quagarth brooks | |  friends in low places"];
+"steppenwolf" [label ="steppenwolf | |  born to be wild"];
+"splendor" [label ="splendor | |  I think god can explain"];
+"rob thomas" [label ="rob thomas | |  lonely no more"];
+"ritchie valens" [label ="ritchie valens | |  la bamba"];
+"rem" [label ="rem | |  end of the world as we know it"];
+"radiohead" [label ="radiohead | |  creep"];
+"red hot chili peppers" [label ="red hot chili peppers | |  by the way |  under the bridge |  californication |  soul to squeeze |  dani california |  otherside"];
+"refreshments" [label ="refreshments | |  banditos"];
+"rehab" [label ="rehab | |  bartender"];
+"righteous brothers" [label ="righteous brothers | |  you lost that loving feeling"];
+"ricky martin" [label ="ricky martin | |  la vida loca"];
+"rick springfield" [label ="rick springfield | |  jessie's girl"];
+"rihanna" [label ="rihanna | |  disturbia |  umbrella"];
+"spice girls" [label ="spice girls | |  wannabe |  say you'll be there"];
+"rolling stones" [label ="rolling stones | |  honky tonk woman |  satisfaction"];
+"rob thomas santana" [label ="rob thomas santana | |  smooth"];
+"robin thicke" [label ="robin thicke | |  blurred lines"];
+"santana" [label ="santana | |  why don't you and i |  maria maria"];
+"salt n peppa" [label ="salt n peppa | |  whatta man"];
+"roxette" [label ="roxette | |  listen to your heart"];
+"ronettes" [label ="ronettes | |  be my baby"];
+"ryan cabrera" [label ="ryan cabrera | |  on the way down"];
+"silverchair" [label ="silverchair | |  greatest view |  ana's song |  tomorrow"];
+"sara barailles" [label ="sara barailles | |  love song"];
+"saving jane" [label ="saving jane | |  girl next door"];
+"savage garden" [label ="savage garden | |  I want you |  truly madly deeply"];
+"shania twain" [label ="shania twain | |  still the one |  man i feel like a woman"];
+"script" [label ="script | |  break even"];
+"shaggy" [label ="shaggy | |  angel |  it wasn't me"];
+"seal" [label ="seal | |  crazy"];
+"sheryl crow" [label ="sheryl crow | |  if it makes you happy"];
+"smashing pumpkins" [label ="smashing pumpkins | |  today |  tonight"];
+"smash mouth" [label ="smash mouth | |  then the morning comes |  all star |  can't get enough of you baby"];
+"sir mixalot" [label ="sir mixalot | |  baby got back"];
+"simple minds" [label ="simple minds | |  don't you forget about me"];
+"simple plan" [label ="simple plan | |  addicted"];
+"sixpence none the richer" [label ="sixpence none the richer | |  kiss me"];
+"sister hazel" [label ="sister hazel | |  all for you"];
+"sisqo" [label ="sisqo | |  thong song"];
+"snoop doggy dog" [label ="snoop doggy dog | |  gin and juice"];
+"spacehog" [label ="spacehog | |  in the meantime"];
+"spin doctors" [label ="spin doctors | |  little miss can't be wrong |  two princes"];
+"sr71" [label ="sr71 | |  right now"];
+"sponge" [label ="sponge | |  molly (16 candles)"];
+"stone temple pilots" [label ="stone temple pilots | |  interstate love song |  plush"];
+"stereofuse" [label ="stereofuse | |  everything"];
+"steve miller band" [label ="steve miller band | |  joker"];
+"sum 41" [label ="sum 41 | |  in too deep |  fat lip"];
+"sugar ray" [label ="sugar ray | |  falls apart |  every morning |  someday |  answer the phone |  fly"];
+"sublime" [label ="sublime | |  santeria |  wrong way |  what I got"];
+"stroke 9" [label ="stroke 9 | |  little black backpack"];
+"taylor swift" [label ="taylor swift | |  our song |  love story"];
+"tal bachman" [label ="tal bachman | |  she's so high"];
+"taio cruz" [label ="taio cruz | |  dynamite |  break your heart"];
+"tears for fears" [label ="tears for fears | |  head over heals |  mad world"];
+"temptations" [label ="temptations | |  ain't too proud to beg |  my girl"];
+"turtles" [label ="turtles | |  happy together"];
+"tom petty" [label ="tom petty | |  free falling |  last dance with mary jane |  you don't know how it feels |  american girl"];
+"toby keith" [label ="toby keith | |  i love this bar |  american ride"];
+"toad the wet sprocket" [label ="toad the wet sprocket | |  all i want |  walk on the ocean"];
+"tlc" [label ="tlc | |  no scrubs |  waterfalls"];
+"ting tings" [label ="ting tings | |  that's not my name"];
+"thrid eye blind" [label ="thrid eye blind | |  motorcycle drive by"];
+"toadies" [label ="toadies | |  possum kingdom"];
+"tom cochrane" [label ="tom cochrane | |  life is a highway"];
+"tommy tutone" [label ="tommy tutone | |  867 5309"];
+"tommy james" [label ="tommy james | |  i think we're alone now"];
+"train" [label ="train | |  meet virginia |  hey soul sister |  drops of jupiter"];
+"toto" [label ="toto | |  africa"];
+"tonic" [label ="tonic | |  if you could only see |  open up your eyes"];
+"tool" [label ="tool | |  sober"];
+"tracy chapman" [label ="tracy chapman | |  fast car |  give me one reason"];
+"will smith" [label ="will smith | |  miami"];
+"vertical horizon" [label ="vertical horizon | |  you're a god |  everything you want"];
+"usher" [label ="usher | |  o.m.g. |  dj got us falling in love |  caught up |  more"];
+"used" [label ="used | |  taste of ink |  blue and yellow"];
+"ugly kid joe" [label ="ugly kid joe | |  everything about you"];
+"vanessa carlton" [label ="vanessa carlton | |  1000 miles"];
+"van morrison" [label ="van morrison | |  brown eyed girl"];
+"verve" [label ="verve | |  bittersweet symphony"];
+"wallflowers" [label ="wallflowers | |  one headlight"];
+"violent femmes" [label ="violent femmes | |  blister in the sun"];
+"village people" [label ="village people | |  ymca"];
+"verve pipe" [label ="verve pipe | |  freshman"];
+"wild cherry" [label ="wild cherry | |  play that funky music"];
+"weezer" [label ="weezer | |  perfect situation |  hash pipe |  sweater song |  say it ain't so |  buddy holly"];
+"white stripes" [label ="white stripes | |  7 nation army"];
+"wham" [label ="wham | |  wake me up before you go go"];
+"whitesnake" [label ="whitesnake | |  here I go again"];
+"whitney houston" [label ="whitney houston | |  i wanna dance with somebody"];
+"zedd" [label ="zedd | |  clarity"];
+"wonders" [label ="wonders | |  that thing you do"];
+"zac brown band" [label ="zac brown band | |  toes |  chicken fried"];
+"young mc" [label ="young mc | |  bust a move"];
+"yellowcard" [label ="yellowcard | |  ocean avenue"];
+"christina aguilera"  -> "chris isaak" 
+"chris isaak"  -> "backstreet boys" 
+"backstreet boys"  -> "3 doors down" 
+nullptr381[shape=point]
+"3 doors down"  -> nullptr381
+"3 doors down"  -> "311" 
+nullptr382[shape=point]
+"311"  -> nullptr382
+"311"  -> "ashlee simpson" 
+"ashlee simpson"  -> "aerosmith" 
+"aerosmith"  -> "ac/dc" 
+"ac/dc"  -> "3oh3" 
+nullptr383[shape=point]
+"3oh3"  -> nullptr383
+"3oh3"  -> "4 non blondes" 
+nullptr384[shape=point]
+"4 non blondes"  -> nullptr384
+nullptr385[shape=point]
+"4 non blondes"  -> nullptr385
+"ac/dc"  -> "ace of base" 
+nullptr386[shape=point]
+"ace of base"  -> nullptr386
+nullptr387[shape=point]
+"ace of base"  -> nullptr387
+"aerosmith"  -> "anna malick" 
+"anna malick"  -> "alanis morrisette" 
+"alanis morrisette"  -> "akon" 
+"akon"  -> "aha" 
+nullptr388[shape=point]
+"aha"  -> nullptr388
+nullptr389[shape=point]
+"aha"  -> nullptr389
+nullptr390[shape=point]
+"akon"  -> nullptr390
+"alanis morrisette"  -> "all american rejects" 
+"all american rejects"  -> "all ameican rejects" 
+nullptr391[shape=point]
+"all ameican rejects"  -> nullptr391
+nullptr392[shape=point]
+"all ameican rejects"  -> nullptr392
+"all american rejects"  -> "american hi fi" 
+nullptr393[shape=point]
+"american hi fi"  -> nullptr393
+nullptr394[shape=point]
+"american hi fi"  -> nullptr394
+"anna malick"  -> "aqua" 
+nullptr395[shape=point]
+"aqua"  -> nullptr395
+nullptr396[shape=point]
+"aqua"  -> nullptr396
+"ashlee simpson"  -> "b52's" 
+"b52's"  -> "augustana" 
+nullptr397[shape=point]
+"augustana"  -> nullptr397
+"augustana"  -> "avril lavigne" 
+nullptr398[shape=point]
+"avril lavigne"  -> nullptr398
+nullptr399[shape=point]
+"avril lavigne"  -> nullptr399
+nullptr400[shape=point]
+"b52's"  -> nullptr400
+"backstreet boys"  -> "bobby darin" 
+"bobby darin"  -> "bel biv devoe" 
+"bel biv devoe"  -> "bb mack" 
+"bb mack"  -> "badfinger" 
+"badfinger"  -> "bad company" 
+nullptr401[shape=point]
+"bad company"  -> nullptr401
+nullptr402[shape=point]
+"bad company"  -> nullptr402
+"badfinger"  -> "barenaked ladies" 
+nullptr403[shape=point]
+"barenaked ladies"  -> nullptr403
+nullptr404[shape=point]
+"barenaked ladies"  -> nullptr404
+"bb mack"  -> "beatles" 
+"beatles"  -> "beastie boys" 
+nullptr405[shape=point]
+"beastie boys"  -> nullptr405
+nullptr406[shape=point]
+"beastie boys"  -> nullptr406
+"beatles"  -> "bee gees" 
+nullptr407[shape=point]
+"bee gees"  -> nullptr407
+nullptr408[shape=point]
+"bee gees"  -> nullptr408
+"bel biv devoe"  -> "black eyed peas" 
+"black eyed peas"  -> "billy idol" 
+"billy idol"  -> "belinda carlisle" 
+nullptr409[shape=point]
+"belinda carlisle"  -> nullptr409
+"belinda carlisle"  -> "ben harper" 
+"ben harper"  -> "ben e king" 
+nullptr410[shape=point]
+"ben e king"  -> nullptr410
+nullptr411[shape=point]
+"ben e king"  -> nullptr411
+"ben harper"  -> "better than ezra" 
+nullptr412[shape=point]
+"better than ezra"  -> nullptr412
+"better than ezra"  -> "betty everett" 
+nullptr413[shape=point]
+"betty everett"  -> nullptr413
+"betty everett"  -> "bill winters" 
+nullptr414[shape=point]
+"bill winters"  -> nullptr414
+nullptr415[shape=point]
+"bill winters"  -> nullptr415
+"billy idol"  -> "black crowes" 
+"black crowes"  -> "billy joel" 
+nullptr416[shape=point]
+"billy joel"  -> nullptr416
+nullptr417[shape=point]
+"billy joel"  -> nullptr417
+nullptr418[shape=point]
+"black crowes"  -> nullptr418
+"black eyed peas"  -> "blind melon" 
+"blind melon"  -> "blessed union of souls" 
+nullptr419[shape=point]
+"blessed union of souls"  -> nullptr419
+nullptr420[shape=point]
+"blessed union of souls"  -> nullptr420
+"blind melon"  -> "blink 182" 
+nullptr421[shape=point]
+"blink 182"  -> nullptr421
+"blink 182"  -> "blue october" 
+nullptr422[shape=point]
+"blue october"  -> nullptr422
+"blue october"  -> "blues traveler" 
+nullptr423[shape=point]
+"blues traveler"  -> nullptr423
+"blues traveler"  -> "bob seager" 
+nullptr424[shape=point]
+"bob seager"  -> nullptr424
+nullptr425[shape=point]
+"bob seager"  -> nullptr425
+"bobby darin"  -> "buggles" 
+"buggles"  -> "britney spears" 
+"britney spears"  -> "bon jovi" 
+nullptr426[shape=point]
+"bon jovi"  -> nullptr426
+"bon jovi"  -> "brian setzer" 
+"brian setzer"  -> "boston" 
+nullptr427[shape=point]
+"boston"  -> nullptr427
+nullptr428[shape=point]
+"boston"  -> nullptr428
+nullptr429[shape=point]
+"brian setzer"  -> nullptr429
+"britney spears"  -> "bryan adams" 
+"bryan adams"  -> "bruno mars" 
+"bruno mars"  -> "bruce springsteen" 
+nullptr430[shape=point]
+"bruce springsteen"  -> nullptr430
+nullptr431[shape=point]
+"bruce springsteen"  -> nullptr431
+nullptr432[shape=point]
+"bruno mars"  -> nullptr432
+"bryan adams"  -> "buddy holly" 
+nullptr433[shape=point]
+"buddy holly"  -> nullptr433
+nullptr434[shape=point]
+"buddy holly"  -> nullptr434
+"buggles"  -> "ccr" 
+"ccr"  -> "cardigans" 
+"cardigans"  -> "candlebox" 
+"candlebox"  -> "cameo" 
+"cameo"  -> "calling" 
+"calling"  -> "bush" 
+nullptr435[shape=point]
+"bush"  -> nullptr435
+nullptr436[shape=point]
+"bush"  -> nullptr436
+nullptr437[shape=point]
+"calling"  -> nullptr437
+nullptr438[shape=point]
+"cameo"  -> nullptr438
+nullptr439[shape=point]
+"candlebox"  -> nullptr439
+"cardigans"  -> "cars" 
+"cars"  -> "carrie underwood" 
+nullptr440[shape=point]
+"carrie underwood"  -> nullptr440
+nullptr441[shape=point]
+"carrie underwood"  -> nullptr441
+nullptr442[shape=point]
+"cars"  -> nullptr442
+"ccr"  -> "chris daughtry" 
+"chris daughtry"  -> "cheap trick" 
+"cheap trick"  -> "celine dion" 
+nullptr443[shape=point]
+"celine dion"  -> nullptr443
+nullptr444[shape=point]
+"celine dion"  -> nullptr444
+"cheap trick"  -> "chris brown" 
+"chris brown"  -> "chicago" 
+"chicago"  -> "cher" 
+nullptr445[shape=point]
+"cher"  -> nullptr445
+nullptr446[shape=point]
+"cher"  -> nullptr446
+nullptr447[shape=point]
+"chicago"  -> nullptr447
+nullptr448[shape=point]
+"chris brown"  -> nullptr448
+nullptr449[shape=point]
+"chris daughtry"  -> nullptr449
+nullptr450[shape=point]
+"chris isaak"  -> nullptr450
+"christina aguilera"  -> "lit" 
+"lit"  -> "iyaz" 
+"iyaz"  -> "eagles" 
+"eagles"  -> "david guetta" 
+"david guetta"  -> "dave matthews" 
+"dave matthews"  -> "collective soul" 
+"collective soul"  -> "coldplay" 
+"coldplay"  -> "chumbawumba" 
+nullptr451[shape=point]
+"chumbawumba"  -> nullptr451
+"chumbawumba"  -> "city high" 
+"city high"  -> "cindy lauper" 
+nullptr452[shape=point]
+"cindy lauper"  -> nullptr452
+nullptr453[shape=point]
+"cindy lauper"  -> nullptr453
+"city high"  -> "colbie caillat" 
+"colbie caillat"  -> "clay aiken" 
+"clay aiken"  -> "clash" 
+nullptr454[shape=point]
+"clash"  -> nullptr454
+nullptr455[shape=point]
+"clash"  -> nullptr455
+nullptr456[shape=point]
+"clay aiken"  -> nullptr456
+nullptr457[shape=point]
+"colbie caillat"  -> nullptr457
+nullptr458[shape=point]
+"coldplay"  -> nullptr458
+"collective soul"  -> "cracker" 
+"cracker"  -> "corrs" 
+"corrs"  -> "contours" 
+nullptr459[shape=point]
+"contours"  -> nullptr459
+nullptr460[shape=point]
+"contours"  -> nullptr460
+"corrs"  -> "counting crows" 
+nullptr461[shape=point]
+"counting crows"  -> nullptr461
+nullptr462[shape=point]
+"counting crows"  -> nullptr462
+"cracker"  -> "cyndi lauper" 
+"cyndi lauper"  -> "cure" 
+"cure"  -> "cranberries" 
+nullptr463[shape=point]
+"cranberries"  -> nullptr463
+"cranberries"  -> "crash test dummies" 
+nullptr464[shape=point]
+"crash test dummies"  -> nullptr464
+"crash test dummies"  -> "crystals" 
+nullptr465[shape=point]
+"crystals"  -> nullptr465
+nullptr466[shape=point]
+"crystals"  -> nullptr466
+nullptr467[shape=point]
+"cure"  -> nullptr467
+"cyndi lauper"  -> "daft punk" 
+nullptr468[shape=point]
+"daft punk"  -> nullptr468
+"daft punk"  -> "darkness" 
+"darkness"  -> "damn yankees" 
+nullptr469[shape=point]
+"damn yankees"  -> nullptr469
+"damn yankees"  -> "daniel powter" 
+nullptr470[shape=point]
+"daniel powter"  -> nullptr470
+nullptr471[shape=point]
+"daniel powter"  -> nullptr471
+nullptr472[shape=point]
+"darkness"  -> nullptr472
+nullptr473[shape=point]
+"dave matthews"  -> nullptr473
+"david guetta"  -> "doobie brothers" 
+"doobie brothers"  -> "deep blue something" 
+"deep blue something"  -> "deadeye dick" 
+"deadeye dick"  -> "david lee murphy" 
+nullptr474[shape=point]
+"david lee murphy"  -> nullptr474
+nullptr475[shape=point]
+"david lee murphy"  -> nullptr475
+"deadeye dick"  -> "debarge" 
+"debarge"  -> "dean martin" 
+nullptr476[shape=point]
+"dean martin"  -> nullptr476
+nullptr477[shape=point]
+"dean martin"  -> nullptr477
+nullptr478[shape=point]
+"debarge"  -> nullptr478
+"deep blue something"  -> "destiny's child" 
+"destiny's child"  -> "dell vikings" 
+"dell vikings"  -> "def leppard" 
+nullptr479[shape=point]
+"def leppard"  -> nullptr479
+"def leppard"  -> "del amitri" 
+nullptr480[shape=point]
+"del amitri"  -> nullptr480
+nullptr481[shape=point]
+"del amitri"  -> nullptr481
+nullptr482[shape=point]
+"dell vikings"  -> nullptr482
+"destiny's child"  -> "dexy's midnight runners" 
+nullptr483[shape=point]
+"dexy's midnight runners"  -> nullptr483
+"dexy's midnight runners"  -> "dion and the belmonts" 
+nullptr484[shape=point]
+"dion and the belmonts"  -> nullptr484
+"dion and the belmonts"  -> "dog's eye view" 
+"dog's eye view"  -> "dixie cups" 
+"dixie cups"  -> "dishwalla" 
+nullptr485[shape=point]
+"dishwalla"  -> nullptr485
+nullptr486[shape=point]
+"dishwalla"  -> nullptr486
+nullptr487[shape=point]
+"dixie cups"  -> nullptr487
+"dog's eye view"  -> "don henley" 
+nullptr488[shape=point]
+"don henley"  -> nullptr488
+nullptr489[shape=point]
+"don henley"  -> nullptr489
+"doobie brothers"  -> "drake" 
+nullptr490[shape=point]
+"drake"  -> nullptr490
+"drake"  -> "eagle eye cherry" 
+"eagle eye cherry"  -> "dwight yoakum" 
+"dwight yoakum"  -> "duncan sheik" 
+nullptr491[shape=point]
+"duncan sheik"  -> nullptr491
+"duncan sheik"  -> "duran duran" 
+nullptr492[shape=point]
+"duran duran"  -> nullptr492
+nullptr493[shape=point]
+"duran duran"  -> nullptr493
+nullptr494[shape=point]
+"dwight yoakum"  -> nullptr494
+nullptr495[shape=point]
+"eagle eye cherry"  -> nullptr495
+"eagles"  -> "elvis presley" 
+"elvis presley"  -> "elo" 
+"elo"  -> "eddie money" 
+nullptr496[shape=point]
+"eddie money"  -> nullptr496
+"eddie money"  -> "edwin mccain" 
+nullptr497[shape=point]
+"edwin mccain"  -> nullptr497
+nullptr498[shape=point]
+"edwin mccain"  -> nullptr498
+nullptr499[shape=point]
+"elo"  -> nullptr499
+"elvis presley"  -> "fuel" 
+"fuel"  -> "enrique iglesias" 
+nullptr500[shape=point]
+"enrique iglesias"  -> nullptr500
+"enrique iglesias"  -> "four seasons" 
+"four seasons"  -> "flys" 
+"flys"  -> "faith hill" 
+"faith hill"  -> "everclear" 
+"everclear"  -> "eve 6" 
+nullptr501[shape=point]
+"eve 6"  -> nullptr501
+nullptr502[shape=point]
+"eve 6"  -> nullptr502
+nullptr503[shape=point]
+"everclear"  -> nullptr503
+"faith hill"  -> "filter" 
+"filter"  -> "fall out boy" 
+nullptr504[shape=point]
+"fall out boy"  -> nullptr504
+"fall out boy"  -> "fastball" 
+nullptr505[shape=point]
+"fastball"  -> nullptr505
+"fastball"  -> "fergie" 
+nullptr506[shape=point]
+"fergie"  -> nullptr506
+nullptr507[shape=point]
+"fergie"  -> nullptr507
+"filter"  -> "flo rida" 
+"flo rida"  -> "fine young cannibals" 
+nullptr508[shape=point]
+"fine young cannibals"  -> nullptr508
+"fine young cannibals"  -> "fleetwood mac" 
+nullptr509[shape=point]
+"fleetwood mac"  -> nullptr509
+nullptr510[shape=point]
+"fleetwood mac"  -> nullptr510
+nullptr511[shape=point]
+"flo rida"  -> nullptr511
+"flys"  -> "foo fighters" 
+nullptr512[shape=point]
+"foo fighters"  -> nullptr512
+"foo fighters"  -> "foundations" 
+nullptr513[shape=point]
+"foundations"  -> nullptr513
+"foundations"  -> "fountains of wayne" 
+nullptr514[shape=point]
+"fountains of wayne"  -> nullptr514
+nullptr515[shape=point]
+"fountains of wayne"  -> nullptr515
+"four seasons"  -> "frank sinatra" 
+nullptr516[shape=point]
+"frank sinatra"  -> nullptr516
+"frank sinatra"  -> "frankie valli" 
+nullptr517[shape=point]
+"frankie valli"  -> nullptr517
+nullptr518[shape=point]
+"frankie valli"  -> nullptr518
+"fuel"  -> "gavin degraw" 
+"gavin degraw"  -> "gary wright" 
+nullptr519[shape=point]
+"gary wright"  -> nullptr519
+nullptr520[shape=point]
+"gary wright"  -> nullptr520
+"gavin degraw"  -> "green day" 
+"green day"  -> "goo goo dolls" 
+"goo goo dolls"  -> "gin blossoms" 
+"gin blossoms"  -> "george michael" 
+"george michael"  -> "george benson" 
+nullptr521[shape=point]
+"george benson"  -> nullptr521
+nullptr522[shape=point]
+"george benson"  -> nullptr522
+nullptr523[shape=point]
+"george michael"  -> nullptr523
+"gin blossoms"  -> "gnarls barkley" 
+nullptr524[shape=point]
+"gnarls barkley"  -> nullptr524
+"gnarls barkley"  -> "go west" 
+nullptr525[shape=point]
+"go west"  -> nullptr525
+nullptr526[shape=point]
+"go west"  -> nullptr526
+"goo goo dolls"  -> "good charlotte" 
+nullptr527[shape=point]
+"good charlotte"  -> nullptr527
+nullptr528[shape=point]
+"good charlotte"  -> nullptr528
+"green day"  -> "herman's hermits" 
+"herman's hermits"  -> "harvey danger" 
+"harvey danger"  -> "gym class heroes" 
+nullptr529[shape=point]
+"gym class heroes"  -> nullptr529
+"gym class heroes"  -> "hanson" 
+"hanson"  -> "hank williams" 
+nullptr530[shape=point]
+"hank williams"  -> nullptr530
+nullptr531[shape=point]
+"hank williams"  -> nullptr531
+nullptr532[shape=point]
+"hanson"  -> nullptr532
+"harvey danger"  -> "heart" 
+nullptr533[shape=point]
+"heart"  -> nullptr533
+nullptr534[shape=point]
+"heart"  -> nullptr534
+"herman's hermits"  -> "hoobastank" 
+"hoobastank"  -> "hinder" 
+"hinder"  -> "hilary duff" 
+nullptr535[shape=point]
+"hilary duff"  -> nullptr535
+nullptr536[shape=point]
+"hilary duff"  -> nullptr536
+nullptr537[shape=point]
+"hinder"  -> nullptr537
+"hoobastank"  -> "huey lewis" 
+"huey lewis"  -> "house of pain" 
+"house of pain"  -> "hot chelle rae" 
+"hot chelle rae"  -> "hootie and the blowfish" 
+nullptr538[shape=point]
+"hootie and the blowfish"  -> nullptr538
+nullptr539[shape=point]
+"hootie and the blowfish"  -> nullptr539
+nullptr540[shape=point]
+"hot chelle rae"  -> nullptr540
+nullptr541[shape=point]
+"house of pain"  -> nullptr541
+"huey lewis"  -> "incubus" 
+"incubus"  -> "imagine dragons" 
+nullptr542[shape=point]
+"imagine dragons"  -> nullptr542
+nullptr543[shape=point]
+"imagine dragons"  -> nullptr543
+"incubus"  -> "inxs" 
+nullptr544[shape=point]
+"inxs"  -> nullptr544
+nullptr545[shape=point]
+"inxs"  -> nullptr545
+"iyaz"  -> "jennifer lopez" 
+"jennifer lopez"  -> "jay sean" 
+"jay sean"  -> "jason mraz" 
+"jason mraz"  -> "jason aldean" 
+"jason aldean"  -> "james" 
+nullptr546[shape=point]
+"james"  -> nullptr546
+nullptr547[shape=point]
+"james"  -> nullptr547
+nullptr548[shape=point]
+"jason aldean"  -> nullptr548
+nullptr549[shape=point]
+"jason mraz"  -> nullptr549
+nullptr550[shape=point]
+"jay sean"  -> nullptr550
+"jennifer lopez"  -> "knack" 
+"knack"  -> "justin timberlake" 
+"justin timberlake"  -> "journey" 
+"journey"  -> "jojo" 
+"jojo"  -> "jet" 
+"jet"  -> "jesse mccartney" 
+nullptr551[shape=point]
+"jesse mccartney"  -> nullptr551
+nullptr552[shape=point]
+"jesse mccartney"  -> nullptr552
+"jet"  -> "johnny cash" 
+"johnny cash"  -> "john mayer" 
+"john mayer"  -> "john cougar mellencamp" 
+"john cougar mellencamp"  -> "jimmy buffet" 
+nullptr553[shape=point]
+"jimmy buffet"  -> nullptr553
+"jimmy buffet"  -> "jimmy eat world" 
+nullptr554[shape=point]
+"jimmy eat world"  -> nullptr554
+nullptr555[shape=point]
+"jimmy eat world"  -> nullptr555
+nullptr556[shape=point]
+"john cougar mellencamp"  -> nullptr556
+"john mayer"  -> "john parr" 
+nullptr557[shape=point]
+"john parr"  -> nullptr557
+nullptr558[shape=point]
+"john parr"  -> nullptr558
+nullptr559[shape=point]
+"johnny cash"  -> nullptr559
+"jojo"  -> "jordin sparks" 
+"jordin sparks"  -> "jonas brothers" 
+nullptr560[shape=point]
+"jonas brothers"  -> nullptr560
+nullptr561[shape=point]
+"jonas brothers"  -> nullptr561
+nullptr562[shape=point]
+"jordin sparks"  -> nullptr562
+"journey"  -> "justin bieber" 
+nullptr563[shape=point]
+"justin bieber"  -> nullptr563
+"justin bieber"  -> "justin biever" 
+nullptr564[shape=point]
+"justin biever"  -> nullptr564
+nullptr565[shape=point]
+"justin biever"  -> nullptr565
+"justin timberlake"  -> "kesha" 
+"kesha"  -> "katy perry" 
+"katy perry"  -> "katrina and the waves" 
+"katrina and the waves"  -> "kanye west" 
+nullptr566[shape=point]
+"kanye west"  -> nullptr566
+nullptr567[shape=point]
+"kanye west"  -> nullptr567
+nullptr568[shape=point]
+"katrina and the waves"  -> nullptr568
+"katy perry"  -> "kelly clarkson" 
+"kelly clarkson"  -> "keane" 
+"keane"  -> "kc & jojo" 
+nullptr569[shape=point]
+"kc & jojo"  -> nullptr569
+nullptr570[shape=point]
+"kc & jojo"  -> nullptr570
+nullptr571[shape=point]
+"keane"  -> nullptr571
+nullptr572[shape=point]
+"kelly clarkson"  -> nullptr572
+"kesha"  -> "kings of leon" 
+"kings of leon"  -> "killers" 
+"killers"  -> "kid rock" 
+"kid rock"  -> "kevin rudolf" 
+nullptr573[shape=point]
+"kevin rudolf"  -> nullptr573
+nullptr574[shape=point]
+"kevin rudolf"  -> nullptr574
+nullptr575[shape=point]
+"kid rock"  -> nullptr575
+nullptr576[shape=point]
+"killers"  -> nullptr576
+nullptr577[shape=point]
+"kings of leon"  -> nullptr577
+"knack"  -> "lady gaga" 
+"lady gaga"  -> "la's" 
+"la's"  -> "la roux" 
+nullptr578[shape=point]
+"la roux"  -> nullptr578
+nullptr579[shape=point]
+"la roux"  -> nullptr579
+nullptr580[shape=point]
+"la's"  -> nullptr580
+"lady gaga"  -> "lifehouse" 
+"lifehouse"  -> "leonna lewis" 
+"leonna lewis"  -> "led zepelin" 
+nullptr581[shape=point]
+"led zepelin"  -> nullptr581
+"led zepelin"  -> "len" 
+nullptr582[shape=point]
+"len"  -> nullptr582
+nullptr583[shape=point]
+"len"  -> nullptr583
+"leonna lewis"  -> "lfo" 
+nullptr584[shape=point]
+"lfo"  -> nullptr584
+nullptr585[shape=point]
+"lfo"  -> nullptr585
+"lifehouse"  -> "linkin park" 
+nullptr586[shape=point]
+"linkin park"  -> nullptr586
+"linkin park"  -> "lisa loeb" 
+nullptr587[shape=point]
+"lisa loeb"  -> nullptr587
+nullptr588[shape=point]
+"lisa loeb"  -> nullptr588
+"lit"  -> "modern english" 
+"modern english"  -> "michael jackson" 
+"michael jackson"  -> "lonely island" 
+"lonely island"  -> "lmfao" 
+"lmfao"  -> "live" 
+nullptr589[shape=point]
+"live"  -> nullptr589
+nullptr590[shape=point]
+"live"  -> nullptr590
+nullptr591[shape=point]
+"lmfao"  -> nullptr591
+"lonely island"  -> "lou bega" 
+"lou bega"  -> "los lonely boys" 
+nullptr592[shape=point]
+"los lonely boys"  -> nullptr592
+"los lonely boys"  -> "lost trailers" 
+nullptr593[shape=point]
+"lost trailers"  -> nullptr593
+nullptr594[shape=point]
+"lost trailers"  -> nullptr594
+"lou bega"  -> "maroon 5" 
+"maroon 5"  -> "madonna" 
+"madonna"  -> "lynyrd skynyrd" 
+"lynyrd skynyrd"  -> "luke bryan" 
+nullptr595[shape=point]
+"luke bryan"  -> nullptr595
+nullptr596[shape=point]
+"luke bryan"  -> nullptr596
+nullptr597[shape=point]
+"lynyrd skynyrd"  -> nullptr597
+"madonna"  -> "marion winans" 
+"marion winans"  -> "mariah carey" 
+nullptr598[shape=point]
+"mariah carey"  -> nullptr598
+nullptr599[shape=point]
+"mariah carey"  -> nullptr599
+nullptr600[shape=point]
+"marion winans"  -> nullptr600
+"maroon 5"  -> "matchbox 20" 
+"matchbox 20"  -> "martha & vandellas" 
+nullptr601[shape=point]
+"martha & vandellas"  -> nullptr601
+nullptr602[shape=point]
+"martha & vandellas"  -> nullptr602
+"matchbox 20"  -> "meredith brooks" 
+"meredith brooks"  -> "melissa etheridge" 
+"melissa etheridge"  -> "meat loaf" 
+"meat loaf"  -> "mccoys" 
+"mccoys"  -> "maurice williams & zodiacs" 
+nullptr603[shape=point]
+"maurice williams & zodiacs"  -> nullptr603
+nullptr604[shape=point]
+"maurice williams & zodiacs"  -> nullptr604
+nullptr605[shape=point]
+"mccoys"  -> nullptr605
+nullptr606[shape=point]
+"meat loaf"  -> nullptr606
+"melissa etheridge"  -> "men at work" 
+nullptr607[shape=point]
+"men at work"  -> nullptr607
+nullptr608[shape=point]
+"men at work"  -> nullptr608
+nullptr609[shape=point]
+"meredith brooks"  -> nullptr609
+"michael jackson"  -> "mighty mighty bosstones" 
+"mighty mighty bosstones"  -> "michelle branch" 
+nullptr610[shape=point]
+"michelle branch"  -> nullptr610
+"michelle branch"  -> "mickey and sylvia" 
+nullptr611[shape=point]
+"mickey and sylvia"  -> nullptr611
+nullptr612[shape=point]
+"mickey and sylvia"  -> nullptr612
+"mighty mighty bosstones"  -> "missy elliot" 
+"missy elliot"  -> "miley cyrus" 
+nullptr613[shape=point]
+"miley cyrus"  -> nullptr613
+nullptr614[shape=point]
+"miley cyrus"  -> nullptr614
+nullptr615[shape=point]
+"missy elliot"  -> nullptr615
+"modern english"  -> "u2" 
+"u2"  -> "next" 
+"next"  -> "mr big" 
+"mr big"  -> "montell jordan" 
+"montell jordan"  -> "monkees" 
+nullptr616[shape=point]
+"monkees"  -> nullptr616
+nullptr617[shape=point]
+"monkees"  -> nullptr617
+nullptr618[shape=point]
+"montell jordan"  -> nullptr618
+"mr big"  -> "mumford and sons" 
+nullptr619[shape=point]
+"mumford and sons"  -> nullptr619
+"mumford and sons"  -> "nelly furtado" 
+"nelly furtado"  -> "naked eyes" 
+nullptr620[shape=point]
+"naked eyes"  -> nullptr620
+"naked eyes"  -> "natalie imbruglia" 
+nullptr621[shape=point]
+"natalie imbruglia"  -> nullptr621
+"natalie imbruglia"  -> "natasha bedingfield" 
+nullptr622[shape=point]
+"natasha bedingfield"  -> nullptr622
+nullptr623[shape=point]
+"natasha bedingfield"  -> nullptr623
+"nelly furtado"  -> "neon trees" 
+nullptr624[shape=point]
+"neon trees"  -> nullptr624
+nullptr625[shape=point]
+"neon trees"  -> nullptr625
+"next"  -> "third eye blind" 
+"third eye blind"  -> "pearl jam" 
+"pearl jam"  -> "no doubt" 
+"no doubt"  -> "nine days" 
+"nine days"  -> "nickelback" 
+"nickelback"  -> "neyo" 
+nullptr626[shape=point]
+"neyo"  -> nullptr626
+nullptr627[shape=point]
+"neyo"  -> nullptr627
+nullptr628[shape=point]
+"nickelback"  -> nullptr628
+nullptr629[shape=point]
+"nine days"  -> nullptr629
+"no doubt"  -> "outfield" 
+"outfield"  -> "one republic" 
+"one republic"  -> "offspring" 
+"offspring"  -> "oasis" 
+"oasis"  -> "nsync" 
+nullptr630[shape=point]
+"nsync"  -> nullptr630
+"nsync"  -> "oar" 
+nullptr631[shape=point]
+"oar"  -> nullptr631
+nullptr632[shape=point]
+"oar"  -> nullptr632
+nullptr633[shape=point]
+"oasis"  -> nullptr633
+nullptr634[shape=point]
+"offspring"  -> nullptr634
+"one republic"  -> "our lady peace" 
+"our lady peace"  -> "orianthi" 
+nullptr635[shape=point]
+"orianthi"  -> nullptr635
+nullptr636[shape=point]
+"orianthi"  -> nullptr636
+nullptr637[shape=point]
+"our lady peace"  -> nullptr637
+"outfield"  -> "paramore" 
+"paramore"  -> "papa roach" 
+"papa roach"  -> "outkast" 
+nullptr638[shape=point]
+"outkast"  -> nullptr638
+"outkast"  -> "panic at the disco" 
+"panic at the disco"  -> "owl city" 
+nullptr639[shape=point]
+"owl city"  -> nullptr639
+nullptr640[shape=point]
+"owl city"  -> nullptr640
+nullptr641[shape=point]
+"panic at the disco"  -> nullptr641
+nullptr642[shape=point]
+"papa roach"  -> nullptr642
+"paramore"  -> "paul simon" 
+"paul simon"  -> "pat benatar" 
+nullptr643[shape=point]
+"pat benatar"  -> nullptr643
+nullptr644[shape=point]
+"pat benatar"  -> nullptr644
+"paul simon"  -> "paula abdul" 
+nullptr645[shape=point]
+"paula abdul"  -> nullptr645
+nullptr646[shape=point]
+"paula abdul"  -> nullptr646
+"pearl jam"  -> "r kelly" 
+"r kelly"  -> "pure prairie league" 
+"pure prairie league"  -> "peggy march" 
+nullptr647[shape=point]
+"peggy march"  -> nullptr647
+"peggy march"  -> "proclaimers" 
+"proclaimers"  -> "peter frampton" 
+nullptr648[shape=point]
+"peter frampton"  -> nullptr648
+"peter frampton"  -> "pitbull" 
+"pitbull"  -> "pink" 
+"pink"  -> "peter gabriel" 
+nullptr649[shape=point]
+"peter gabriel"  -> nullptr649
+"peter gabriel"  -> "phantom planet" 
+nullptr650[shape=point]
+"phantom planet"  -> nullptr650
+nullptr651[shape=point]
+"phantom planet"  -> nullptr651
+nullptr652[shape=point]
+"pink"  -> nullptr652
+"pitbull"  -> "prince" 
+"prince"  -> "police" 
+"police"  -> "poison" 
+nullptr653[shape=point]
+"poison"  -> nullptr653
+nullptr654[shape=point]
+"poison"  -> nullptr654
+"police"  -> "presidents of the USA" 
+nullptr655[shape=point]
+"presidents of the USA"  -> nullptr655
+nullptr656[shape=point]
+"presidents of the USA"  -> nullptr656
+nullptr657[shape=point]
+"prince"  -> nullptr657
+"proclaimers"  -> "puddle of mudd" 
+nullptr658[shape=point]
+"puddle of mudd"  -> nullptr658
+nullptr659[shape=point]
+"puddle of mudd"  -> nullptr659
+"pure prairie league"  -> "queen" 
+"queen"  -> "pussycat dolls" 
+nullptr660[shape=point]
+"pussycat dolls"  -> nullptr660
+"pussycat dolls"  -> "quagarth brooks" 
+nullptr661[shape=point]
+"quagarth brooks"  -> nullptr661
+nullptr662[shape=point]
+"quagarth brooks"  -> nullptr662
+nullptr663[shape=point]
+"queen"  -> nullptr663
+"r kelly"  -> "steppenwolf" 
+"steppenwolf"  -> "splendor" 
+"splendor"  -> "rob thomas" 
+"rob thomas"  -> "ritchie valens" 
+"ritchie valens"  -> "rem" 
+"rem"  -> "radiohead" 
+nullptr664[shape=point]
+"radiohead"  -> nullptr664
+"radiohead"  -> "red hot chili peppers" 
+nullptr665[shape=point]
+"red hot chili peppers"  -> nullptr665
+"red hot chili peppers"  -> "refreshments" 
+nullptr666[shape=point]
+"refreshments"  -> nullptr666
+"refreshments"  -> "rehab" 
+nullptr667[shape=point]
+"rehab"  -> nullptr667
+nullptr668[shape=point]
+"rehab"  -> nullptr668
+"rem"  -> "righteous brothers" 
+"righteous brothers"  -> "ricky martin" 
+"ricky martin"  -> "rick springfield" 
+nullptr669[shape=point]
+"rick springfield"  -> nullptr669
+nullptr670[shape=point]
+"rick springfield"  -> nullptr670
+nullptr671[shape=point]
+"ricky martin"  -> nullptr671
+"righteous brothers"  -> "rihanna" 
+nullptr672[shape=point]
+"rihanna"  -> nullptr672
+nullptr673[shape=point]
+"rihanna"  -> nullptr673
+nullptr674[shape=point]
+"ritchie valens"  -> nullptr674
+"rob thomas"  -> "spice girls" 
+"spice girls"  -> "rolling stones" 
+"rolling stones"  -> "rob thomas santana" 
+nullptr675[shape=point]
+"rob thomas santana"  -> nullptr675
+"rob thomas santana"  -> "robin thicke" 
+nullptr676[shape=point]
+"robin thicke"  -> nullptr676
+nullptr677[shape=point]
+"robin thicke"  -> nullptr677
+"rolling stones"  -> "santana" 
+"santana"  -> "salt n peppa" 
+"salt n peppa"  -> "roxette" 
+"roxette"  -> "ronettes" 
+nullptr678[shape=point]
+"ronettes"  -> nullptr678
+nullptr679[shape=point]
+"ronettes"  -> nullptr679
+"roxette"  -> "ryan cabrera" 
+nullptr680[shape=point]
+"ryan cabrera"  -> nullptr680
+nullptr681[shape=point]
+"ryan cabrera"  -> nullptr681
+nullptr682[shape=point]
+"salt n peppa"  -> nullptr682
+"santana"  -> "silverchair" 
+"silverchair"  -> "sara barailles" 
+nullptr683[shape=point]
+"sara barailles"  -> nullptr683
+"sara barailles"  -> "saving jane" 
+"saving jane"  -> "savage garden" 
+nullptr684[shape=point]
+"savage garden"  -> nullptr684
+nullptr685[shape=point]
+"savage garden"  -> nullptr685
+"saving jane"  -> "shania twain" 
+"shania twain"  -> "script" 
+nullptr686[shape=point]
+"script"  -> nullptr686
+"script"  -> "shaggy" 
+"shaggy"  -> "seal" 
+nullptr687[shape=point]
+"seal"  -> nullptr687
+nullptr688[shape=point]
+"seal"  -> nullptr688
+nullptr689[shape=point]
+"shaggy"  -> nullptr689
+"shania twain"  -> "sheryl crow" 
+nullptr690[shape=point]
+"sheryl crow"  -> nullptr690
+nullptr691[shape=point]
+"sheryl crow"  -> nullptr691
+"silverchair"  -> "smashing pumpkins" 
+"smashing pumpkins"  -> "smash mouth" 
+"smash mouth"  -> "sir mixalot" 
+"sir mixalot"  -> "simple minds" 
+nullptr692[shape=point]
+"simple minds"  -> nullptr692
+"simple minds"  -> "simple plan" 
+nullptr693[shape=point]
+"simple plan"  -> nullptr693
+nullptr694[shape=point]
+"simple plan"  -> nullptr694
+"sir mixalot"  -> "sixpence none the richer" 
+"sixpence none the richer"  -> "sister hazel" 
+"sister hazel"  -> "sisqo" 
+nullptr695[shape=point]
+"sisqo"  -> nullptr695
+nullptr696[shape=point]
+"sisqo"  -> nullptr696
+nullptr697[shape=point]
+"sister hazel"  -> nullptr697
+nullptr698[shape=point]
+"sixpence none the richer"  -> nullptr698
+nullptr699[shape=point]
+"smash mouth"  -> nullptr699
+"smashing pumpkins"  -> "snoop doggy dog" 
+nullptr700[shape=point]
+"snoop doggy dog"  -> nullptr700
+"snoop doggy dog"  -> "spacehog" 
+nullptr701[shape=point]
+"spacehog"  -> nullptr701
+nullptr702[shape=point]
+"spacehog"  -> nullptr702
+"spice girls"  -> "spin doctors" 
+nullptr703[shape=point]
+"spin doctors"  -> nullptr703
+nullptr704[shape=point]
+"spin doctors"  -> nullptr704
+"splendor"  -> "sr71" 
+"sr71"  -> "sponge" 
+nullptr705[shape=point]
+"sponge"  -> nullptr705
+nullptr706[shape=point]
+"sponge"  -> nullptr706
+nullptr707[shape=point]
+"sr71"  -> nullptr707
+"steppenwolf"  -> "stone temple pilots" 
+"stone temple pilots"  -> "stereofuse" 
+nullptr708[shape=point]
+"stereofuse"  -> nullptr708
+"stereofuse"  -> "steve miller band" 
+nullptr709[shape=point]
+"steve miller band"  -> nullptr709
+nullptr710[shape=point]
+"steve miller band"  -> nullptr710
+"stone temple pilots"  -> "sum 41" 
+"sum 41"  -> "sugar ray" 
+"sugar ray"  -> "sublime" 
+"sublime"  -> "stroke 9" 
+nullptr711[shape=point]
+"stroke 9"  -> nullptr711
+nullptr712[shape=point]
+"stroke 9"  -> nullptr712
+nullptr713[shape=point]
+"sublime"  -> nullptr713
+nullptr714[shape=point]
+"sugar ray"  -> nullptr714
+"sum 41"  -> "taylor swift" 
+"taylor swift"  -> "tal bachman" 
+"tal bachman"  -> "taio cruz" 
+nullptr715[shape=point]
+"taio cruz"  -> nullptr715
+nullptr716[shape=point]
+"taio cruz"  -> nullptr716
+nullptr717[shape=point]
+"tal bachman"  -> nullptr717
+"taylor swift"  -> "tears for fears" 
+nullptr718[shape=point]
+"tears for fears"  -> nullptr718
+"tears for fears"  -> "temptations" 
+nullptr719[shape=point]
+"temptations"  -> nullptr719
+nullptr720[shape=point]
+"temptations"  -> nullptr720
+"third eye blind"  -> "turtles" 
+"turtles"  -> "tom petty" 
+"tom petty"  -> "toby keith" 
+"toby keith"  -> "toad the wet sprocket" 
+"toad the wet sprocket"  -> "tlc" 
+"tlc"  -> "ting tings" 
+"ting tings"  -> "thrid eye blind" 
+nullptr721[shape=point]
+"thrid eye blind"  -> nullptr721
+nullptr722[shape=point]
+"thrid eye blind"  -> nullptr722
+nullptr723[shape=point]
+"ting tings"  -> nullptr723
+nullptr724[shape=point]
+"tlc"  -> nullptr724
+"toad the wet sprocket"  -> "toadies" 
+nullptr725[shape=point]
+"toadies"  -> nullptr725
+nullptr726[shape=point]
+"toadies"  -> nullptr726
+"toby keith"  -> "tom cochrane" 
+nullptr727[shape=point]
+"tom cochrane"  -> nullptr727
+nullptr728[shape=point]
+"tom cochrane"  -> nullptr728
+"tom petty"  -> "tommy tutone" 
+"tommy tutone"  -> "tommy james" 
+nullptr729[shape=point]
+"tommy james"  -> nullptr729
+nullptr730[shape=point]
+"tommy james"  -> nullptr730
+"tommy tutone"  -> "train" 
+"train"  -> "toto" 
+"toto"  -> "tonic" 
+nullptr731[shape=point]
+"tonic"  -> nullptr731
+"tonic"  -> "tool" 
+nullptr732[shape=point]
+"tool"  -> nullptr732
+nullptr733[shape=point]
+"tool"  -> nullptr733
+"toto"  -> "tracy chapman" 
+nullptr734[shape=point]
+"tracy chapman"  -> nullptr734
+nullptr735[shape=point]
+"tracy chapman"  -> nullptr735
+nullptr736[shape=point]
+"train"  -> nullptr736
+nullptr737[shape=point]
+"turtles"  -> nullptr737
+"u2"  -> "will smith" 
+"will smith"  -> "vertical horizon" 
+"vertical horizon"  -> "usher" 
+"usher"  -> "used" 
+"used"  -> "ugly kid joe" 
+nullptr738[shape=point]
+"ugly kid joe"  -> nullptr738
+nullptr739[shape=point]
+"ugly kid joe"  -> nullptr739
+nullptr740[shape=point]
+"used"  -> nullptr740
+"usher"  -> "vanessa carlton" 
+"vanessa carlton"  -> "van morrison" 
+nullptr741[shape=point]
+"van morrison"  -> nullptr741
+nullptr742[shape=point]
+"van morrison"  -> nullptr742
+nullptr743[shape=point]
+"vanessa carlton"  -> nullptr743
+"vertical horizon"  -> "verve" 
+nullptr744[shape=point]
+"verve"  -> nullptr744
+"verve"  -> "wallflowers" 
+"wallflowers"  -> "violent femmes" 
+"violent femmes"  -> "village people" 
+"village people"  -> "verve pipe" 
+nullptr745[shape=point]
+"verve pipe"  -> nullptr745
+nullptr746[shape=point]
+"verve pipe"  -> nullptr746
+nullptr747[shape=point]
+"village people"  -> nullptr747
+nullptr748[shape=point]
+"violent femmes"  -> nullptr748
+"wallflowers"  -> "wild cherry" 
+"wild cherry"  -> "weezer" 
+nullptr749[shape=point]
+"weezer"  -> nullptr749
+"weezer"  -> "white stripes" 
+"white stripes"  -> "wham" 
+nullptr750[shape=point]
+"wham"  -> nullptr750
+nullptr751[shape=point]
+"wham"  -> nullptr751
+"white stripes"  -> "whitesnake" 
+nullptr752[shape=point]
+"whitesnake"  -> nullptr752
+"whitesnake"  -> "whitney houston" 
+nullptr753[shape=point]
+"whitney houston"  -> nullptr753
+nullptr754[shape=point]
+"whitney houston"  -> nullptr754
+nullptr755[shape=point]
+"wild cherry"  -> nullptr755
+"will smith"  -> "zedd" 
+"zedd"  -> "wonders" 
+nullptr756[shape=point]
+"wonders"  -> nullptr756
+"wonders"  -> "zac brown band" 
+"zac brown band"  -> "young mc" 
+"young mc"  -> "yellowcard" 
+nullptr757[shape=point]
+"yellowcard"  -> nullptr757
+nullptr758[shape=point]
+"yellowcard"  -> nullptr758
+nullptr759[shape=point]
+"young mc"  -> nullptr759
+nullptr760[shape=point]
+"zac brown band"  -> nullptr760
+nullptr761[shape=point]
+"zedd"  -> nullptr761
+}

@@ -9,25 +9,23 @@
 			"type": "cppdbg",
 			"request": "launch",
 			"program": "${workspaceRoot}/songmanager",
-			"args": ["music1.txt"],
+			"args": ["music.txt"],
 			"stopAtEntry": false,
 			"cwd": "${workspaceFolder}",
 			"environment": [],
-			"externalConsole": false,
+			"externalConsole": true,
 			"MIMode": "lldb"
 		},
 		{
-			"name": "Debug 1",
+			"name": "Ext Debug",
 			"type": "cppdbg",
 			"request": "launch",
 			"program": "${workspaceRoot}/songmanager",
-			"args": [
-				"${workspaceFolder}/music1.txt < ${workspaceFolder}/input_for_music1.txt > ${workspaceFolder}/output_for_music1.txt"
-			],
+			"args": [],
 			"stopAtEntry": true,
 			"cwd": "${workspaceFolder}",
 			"environment": [],
-			"externalConsole": false,
+			"externalConsole": true,
 			"MIMode": "lldb"
 		},
 	]

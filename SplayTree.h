@@ -70,22 +70,6 @@ class SplayTree : public BST<KeyT,ValueT> {
 		////      Splay Operations      ////
 		///////////////////////////////////
 
-		void splay(BSTNode<KeyT,ValueT>* aNode) {
-			if (!aNode || !aNode->parent()) return;
-			BSTNode<KeyT,ValueT>* parent = aNode->parent();
-			BSTNode<KeyT,ValueT>* grandParent = parent->parent();
-			while (parent && grandParent) {
-				doubleZigOrZag(aNode, parent, grandParent);
-
-				parent = aNode->parent(); // eval new parent and gparent after rotations
-				if (!parent) break;
-				grandParent = parent->parent();
-				if (!grandParent)break;
-			}
-			if (!grandParent && parent) doZigOrZag(aNode, parent);
-		}
-
-	private: 
 		BSTNode<KeyT,ValueT>* setRotationValues(bool zig, BSTNode<KeyT,ValueT>* aNode, BSTNode<KeyT,ValueT>* aParent) {
 			BSTNode<KeyT,ValueT>* aChild = zig ? aNode->right() : aNode->left();
 			zig ? aNode->setRight(aParent) : aNode->setLeft(aParent);
@@ -144,6 +128,21 @@ class SplayTree : public BST<KeyT,ValueT> {
 		Orientation getOrientation(BSTNode<KeyT,ValueT>* grandParent, BSTNode<KeyT,ValueT>* ggParent) {
 			if (ggParent) return (ggParent->left() == grandParent ? LEFT : RIGHT); 
 			return NONE;
+		}
+
+		void splay(BSTNode<KeyT,ValueT>* aNode) {
+			if (!aNode || !aNode->parent()) return;
+			BSTNode<KeyT,ValueT>* parent = aNode->parent();
+			BSTNode<KeyT,ValueT>* grandParent = parent->parent();
+			while (parent && grandParent) {
+				doubleZigOrZag(aNode, parent, grandParent);
+
+				parent = aNode->parent(); // eval new parent and gparent after rotations
+				if (!parent) break;
+				grandParent = parent->parent();
+				if (!grandParent)break;
+			}
+			if (!grandParent && parent) doZigOrZag(aNode, parent);
 		}
 };	
 
